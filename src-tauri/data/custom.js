@@ -24,3 +24,6 @@ const hookClick = (e) => {
 }
 
 document.addEventListener('click', hookClick, { capture: true })
+
+
+
